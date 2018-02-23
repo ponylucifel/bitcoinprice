@@ -1,0 +1,1 @@
+pyinstaller --onefile src/bitcoinprice.py
